@@ -1,0 +1,16 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+
+}
+#logo{
+    width: 25%;
+    padding: 1%;
+}
+.navigation {
+    width: 73%;
+    padding: 1%;
+}
+li {
+    display: inline-block;
+}
